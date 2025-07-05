@@ -1,4 +1,5 @@
-# jornal------escolar<!DOCTYPE html>
+# jornal------escolar
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
